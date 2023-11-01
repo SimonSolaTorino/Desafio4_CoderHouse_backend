@@ -1,0 +1,46 @@
+[
+  {
+    "title": "F!NE Beauty",
+    "description": "colageno sabor naranja",
+    "category": "colageno",
+    "stock": 5,
+    "price": 24000,
+    "code": "FN01",
+    "thumbnail": [],
+    "status": true,
+    "id": 1
+  },
+  {
+    "title": "F!NE Power",
+    "description": "colageno sabor frutos rojos",
+    "category": "colageno",
+    "stock": 7,
+    "price": 32400,
+    "code": "FN02",
+    "thumbnail": [],
+    "status": false,
+    "id": 2
+  },
+  {
+    "title": "F!NE PEAK",
+    "description": "colageno sabor vainila cream",
+    "category": "colageno",
+    "stock": 12,
+    "price": 32400,
+    "code": "FN03",
+    "thumbnail": [],
+    "status": true,
+    "id": 3
+  },
+  {
+    "title": "F!NE SMOOTH",
+    "description": "colageno sabor arandanos",
+    "category": "colageno",
+    "stock": 8,
+    "price": 32400,
+    "code": "FN04",
+    "thumbnail": "",
+    "status": true,
+    "id": 4
+  }
+]
